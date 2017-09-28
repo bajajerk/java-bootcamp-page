@@ -1,0 +1,19 @@
+.section-1-info{
+	background: -webkit-linear-gradient(left,#F11B6F,#6E04AB); /* For Safari 5.1 to 6.0 */
+	color: #fff;
+}
+.java-img{
+	width:6em;
+	height: 6em;
+	margin-top:2em;
+	margin-bottom: 2em
+}
+.footer{
+	background: #303030;
+}
+.footer-img1{
+	width:10em;
+}
+.footer-img2{
+	width:20em;
+}
